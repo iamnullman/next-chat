@@ -2,6 +2,7 @@
 
 A simple chat application built with Next.js, Tailwind CSS, and Socket.io.
 
+[Demo](https://next-chat.nullman.dev/)
 [![GitHub license](https://img.shields.io/github/license/iamnullman/next-chat.svg)]
 [![Stars](https://img.shields.io/github/stars/iamnullman/next-chat.svg)]
 
